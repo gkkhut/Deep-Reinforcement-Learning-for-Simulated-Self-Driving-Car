@@ -13,8 +13,8 @@ I've used Ubuntu 16.04 - Compatible mostly with Ubuntu all versions
 
 Copy the commands into the termainal and paste it to setup the environment.
 ```console
-    sudo apt-get install -y \'
-    python-pip \`
+    sudo apt-get install -y \
+    python-pip \
     build-essential \
     git \
     python \
